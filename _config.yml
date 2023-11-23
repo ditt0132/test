@@ -7,7 +7,6 @@ theme: jekyll-theme-chirpy
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
-
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: "Asia/Seoul"
 
@@ -24,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ditt0132.github.io"
-
+baseurl: "/test"
 github:
   username: ditt0132 # change to your github username
 
